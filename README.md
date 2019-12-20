@@ -12,6 +12,8 @@
 
 ### 2、查看到磁盘
 
+#### 方式一：
+
 执行命令：**diskutil list**    例如：
 
 ```
@@ -39,7 +41,11 @@
 
 找到外接磁盘，例如我的盘：ayongsDisk
 
-或者执行命令：**ls /Volumes/**
+#### 方式二：
+
+执行命令：**ls /Volumes/**
+
+
 
 ### 3、更新 /etc/fstab文件
 
@@ -87,7 +93,7 @@ Macintosh HD --> Volumes，找到外接磁盘
 
 ## 二、脚本处理
 
-脚本可以实现一部分自动化，简化工作，没有那么繁琐，下面提供一下脚本下载地址：https://github.com/iyongzai/AYSeg/blob/master/NTFSForMac/Antfs for mac.sh*
+脚本可以实现一部分自动化，简化工作，没有那么繁琐，下面提供一下脚本下载地址：https://github.com/iyongzai/NTFSForMac/blob/master/ntfs%20for%20mac.sh
 
 此脚本实现了上面的前4步。
 
