@@ -93,7 +93,7 @@ Macintosh HD --> Volumes，找到外接磁盘
 
 ## 二、脚本处理
 
-脚本可以实现一部分自动化，简化工作，没有那么繁琐，下面提供一下脚本下载地址：https://github.com/iyongzai/NTFSForMac/blob/master/ntfs%20for%20mac.sh
+脚本可以实现一部分自动化，简化工作，没有那么繁琐，下面提供一下脚本下载地址：https://github.com/iyongzai/NTFSForMac/blob/master/NTFSForMac.sh
 
 此脚本实现了上面的前4步。
 
